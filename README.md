@@ -1,2 +1,2 @@
-# Etch-a-Sketch
-The Odin Project Etch-a-Sketch projecct
+"# Etch-a-Sketch" 
+Bulding a Etch-a-Sketch game for the odin project
